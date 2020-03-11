@@ -1,0 +1,15 @@
+﻿  compilation object save succeeded; see C:\Users\asuna\source\repos\DebugDisplay\Debug\PixelShader.cso
+  compilation object save succeeded; see C:\Users\asuna\source\repos\DebugDisplay\Debug\VertexShader.cso
+  AddSprite.cpp
+  ControlSprite.cpp
+  DebugMenu.cpp
+  DeleteSprite.cpp
+  DrawManager.cpp
+  FrameRate.cpp
+  main.cpp
+  MoveSprite.cpp
+  SpriteControllerKeyBinding.cpp
+  Texture.cpp
+  VertexBuffer.cpp
+  コードを生成中...
+  DebugDisplay.vcxproj -> C:\Users\asuna\source\repos\DebugDisplay\Debug\DebugDisplay.exe
