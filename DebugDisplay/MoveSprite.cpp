@@ -14,7 +14,6 @@ MoveSprite::~MoveSprite()
 void MoveSprite::Exec(std::vector<Sprite>* spriteList)
 {
 	float speed = 0.0001f;
-	int spriteNum = spriteList->size();
 	std::vector<Sprite>::iterator it;
 	for (it = spriteList->begin(); it != spriteList->end(); it++)
 	{
